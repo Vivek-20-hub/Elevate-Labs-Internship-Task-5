@@ -1,6 +1,8 @@
 # Elevate-Labs-Internship-Task-5
 
 ## Exploratory Data Analysis (EDA) on cleaned_sales_data.csv
+---
+
 # Dataset Information:
 -- Source: Kaggle (sales_data.csv)
 
@@ -29,7 +31,7 @@ Perform EDA using Pandas, Seaborn, and Matplotlib to extract trends, patterns, a
 ### Use various graphs to explore and understand the dataset.
 
 ## Visualizations & Insights:
-## 1. Pairplot (Sample size: 1000)
+** 1. Pairplot (Sample size: 1000) **
 # Displays relationships between numerical variables.
 
 Insights:
