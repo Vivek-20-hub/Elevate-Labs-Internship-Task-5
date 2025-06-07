@@ -36,6 +36,7 @@ Perform EDA using Pandas, Seaborn, and Matplotlib to extract trends, patterns, a
 ---
 ## 1. Pairplot (Sample size: 1000) 
  **Displays relationships between numerical variables.**
+ 
 ![pairplot](https://github.com/user-attachments/assets/6815572c-e63d-402c-9e98-53c7a439f78f)
 
  # Insights:
@@ -77,6 +78,7 @@ Perform EDA using Pandas, Seaborn, and Matplotlib to extract trends, patterns, a
 ## 4. Boxplot
 ---
 **Highlights distribution and outliers for sales across regions.**
+
 ![sales_region_boxplot](https://github.com/user-attachments/assets/016c2544-0e9b-4e07-8381-902fa1b28992)
 
 # Insights:
