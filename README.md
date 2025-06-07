@@ -36,6 +36,7 @@ Perform EDA using Pandas, Seaborn, and Matplotlib to extract trends, patterns, a
 ---
 ## 1. Pairplot (Sample size: 1000) 
  **Displays relationships between numerical variables.**
+![pairplot](https://github.com/user-attachments/assets/6815572c-e63d-402c-9e98-53c7a439f78f)
 
  # Insights:
 
@@ -49,6 +50,7 @@ Perform EDA using Pandas, Seaborn, and Matplotlib to extract trends, patterns, a
 ## 2. Heatmap
 ---
  **Reveals correlations between numerical features.**
+![heatmap](https://github.com/user-attachments/assets/e38b77f3-62c9-4a84-bc99-fa33e0019f6e)
 
 # Insights:
 
@@ -63,6 +65,7 @@ Perform EDA using Pandas, Seaborn, and Matplotlib to extract trends, patterns, a
 ---
 
 **Shows distribution of sales data.**
+![sales_histogram](https://github.com/user-attachments/assets/328e70d8-8f09-4161-ab36-96966ca8810a)
 
 # Insights:
 
@@ -72,6 +75,7 @@ Perform EDA using Pandas, Seaborn, and Matplotlib to extract trends, patterns, a
 ## 4. Boxplot
 ---
 **Highlights distribution and outliers for sales across regions.**
+![sales_region_boxplot](https://github.com/user-attachments/assets/016c2544-0e9b-4e07-8381-902fa1b28992)
 
 # Insights:
 
@@ -83,6 +87,7 @@ Perform EDA using Pandas, Seaborn, and Matplotlib to extract trends, patterns, a
 ## 5. Scatterplot
 ---
 **Displays relationships between cost and profit.**
+![profit_cost_scatterplot](https://github.com/user-attachments/assets/93583175-3db8-4938-9208-fa03cf76c782)
 
 # Insights:
 
