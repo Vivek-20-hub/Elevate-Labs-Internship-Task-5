@@ -64,7 +64,7 @@ Perform EDA using Pandas, Seaborn, and Matplotlib to extract trends, patterns, a
 
 **Shows distribution of sales data.**
 
-**Insights:**
+# Insights:
 
 - Frequent low sales values suggest that smaller transactions dominate over large purchases.
 ---
@@ -73,7 +73,7 @@ Perform EDA using Pandas, Seaborn, and Matplotlib to extract trends, patterns, a
 ---
 **Highlights distribution and outliers for sales across regions.**
 
-**Insights:**
+# Insights:
 
 - 75% of sales across all regions fall in the lower range.
 
@@ -84,7 +84,7 @@ Perform EDA using Pandas, Seaborn, and Matplotlib to extract trends, patterns, a
 ---
 **Displays relationships between cost and profit.**
 
-**Insights:**
+# Insights:
 
 - Strong negative correlation: Increasing cost leads to decreasing profit.
 
