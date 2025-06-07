@@ -4,33 +4,33 @@
 # Dataset Information:
 -- Source: Kaggle (sales_data.csv)
 
--- Data Cleaning & Preprocessing: Data-Analyst-Internship-at-ElevateLabs-Task-
+-- Data Cleaning & Preprocessing: Data-Analyst-Internship-at-ElevateLabs-Task-5
 
 -- Cleaned Dataset: cleaned_sales_data.csv
 
-Objectives:
+## Objectives:
 Perform EDA using Pandas, Seaborn, and Matplotlib to extract trends, patterns, and insights.
 
-Steps:
-Import Required Modules
+## Steps:
+- Import Required Modules
 
-Load Pandas, Seaborn, and Matplotlib for data manipulation and visualization.
+- Load Pandas, Seaborn, and Matplotlib for data manipulation and visualization.
 
-Load the Dataset
+- Load the Dataset
 
-Import cleaned_sales_data.csv for analysis.
+- Import cleaned_sales_data.csv for analysis.
 
-Perform Data Cleaning (if needed)
+- Perform Data Cleaning (if needed)
 
-Handle missing values, duplicate entries, and outlier treatment.
+- Handle missing values, duplicate entries, and outlier treatment.
 
-Data Visualization
+- Data Visualization
 
-Use various graphs to explore and understand the dataset.
+### Use various graphs to explore and understand the dataset.
 
-Visualizations & Insights:
-1. Pairplot (Sample size: 1000)
-Displays relationships between numerical variables.
+## Visualizations & Insights:
+## 1. Pairplot (Sample size: 1000)
+# Displays relationships between numerical variables.
 
 Insights:
 
